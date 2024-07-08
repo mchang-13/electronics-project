@@ -12,8 +12,6 @@ During the Fall semester, the transistor we used for the project was a BJT trans
 
 ## Report
 
-![link](fall/FinalProject_ENGIN365.pdf)
-
 This is the ![link](fall/FinalProject_ENGIN365.pdf) to the report of this project.
 
 ### Spring Semester Project
