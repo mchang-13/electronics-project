@@ -12,13 +12,15 @@ During the Fall semester, the transistor we used for the project was a BJT trans
 
 ## Report
 
-This is the [link](fall/FinalProject_ENGIN365.pdf) to the report of this project.
+![link](fall/FinalProject_ENGIN365.pdf)
+
+This is the ![link](fall/FinalProject_ENGIN365.pdf) to the report of this project.
 
 ### Spring Semester Project
 
 During the Spring semester, the circuit we designed was a half adder using CMOS transistors. This was because each CMOS pair is matched to each other, making troubleshooting and biasing of the circuit easier. To power the circuit we used a current mirror that biased all the transistors in our circuit. The output of the circuit were two LEDs to show the Carry bit and the Sum bit.
 
-![schematic](spring/schematic.png)
+![schematic](spring/366_project.png)
 
 ## Report
 
